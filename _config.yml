@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "dirt" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "Capucine Rebours"
+title                    : "Capucine Rebours | Autism Researcher & Psychologist"
 title_separator          : "-"
 name                     : &name "Capucine Rebours"
 description: &description "PhD in Psychology | Autism, Camouflaging & Burnout Research"
