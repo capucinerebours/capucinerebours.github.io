@@ -23,7 +23,7 @@ research and clinical practice.
 ## Current Projects
 
 **Validation of the ABSI-Fr**  
-The Autistic Burnout Severity Index (French adaptation) is currently undergoing 
+The Autistic Burnout Severity Items (French adaptation) is currently undergoing 
 psychometric validation. Data collection is ongoing.  
 *Participants can express interest by contacting me directly.*
 
