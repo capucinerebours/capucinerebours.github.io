@@ -22,10 +22,11 @@ repository               : "capucine-rebours/capucine-rebours.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile.jpg"
   name             : "Capucine Rebours, PhD"
   pronouns         : "she/her"  
-  bio              : "Teaching and Research Associate | Postdoctoral Applicant. PhD in Psychology. Autism, camouflaging & burnout research."
+  bio              : "Teaching and Research Associate | Postdoctoral Applicant. 
+Autism, camouflaging & burnout research."
   location         : "Toulouse, France"
   employer         : "Université Toulouse Jean Jaurès"
   uri              : # URL
